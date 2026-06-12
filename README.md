@@ -6,7 +6,7 @@ This repository contains a simplified Python prototype of Ripple, an intent-awar
 
 ## Purpose
 
-The purpose of this implementation is to reproduce the main algorithmic workflow of Ripple in a simplified and self-contained manner for the Advanced Algorithms final assignment.
+The purpose of this implementation is to demonstrate the main algorithmic workflow of Ripple in a simplified and self-contained manner for the Advanced Algorithms final assignment.
 
 The original Ripple approach relies on Large Language Models (LLMs), repository mining, issue reports, and project-specific assets. Therefore, this implementation does not attempt to reproduce the original experimental results. Instead, it focuses on demonstrating the core algorithmic stages of Ripple.
 
@@ -76,14 +76,9 @@ assignment_prototype/
 
 ## Limitations
 
-This implementation is a simplified educational prototype.
+This implementation is a simplified prototype developed for educational purposes.
 
 The original Ripple system relies on LLM-based planning and reasoning, while this implementation uses heuristic approximations. In addition, the example dataset is manually constructed and does not originate from real-world repositories, issue trackers, or commit histories.
 
 Therefore, the results produced by this prototype should not be interpreted as reproducing the original Ripple evaluation. The goal is to demonstrate the algorithmic workflow and interaction among the major components of Ripple.
 
-## Author
-
-Advanced Algorithms Final Assignment
-
-Simplified Ripple Prototype Implementation
