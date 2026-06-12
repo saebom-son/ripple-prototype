@@ -72,13 +72,7 @@ assignment_prototype/
 
 ├── ripple_prototype.py
 
-├── README.md
-
-├── result_1.jpg
-
-├── result_2.jpg
-
-└── result_3.jpg
+└── README.md
 
 ## Limitations
 
